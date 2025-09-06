@@ -1,6 +1,5 @@
 # AI Agent Lab
 
-<div align="center">
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-AI%20Agent%20Lab-blue?style=flat&logo=github)](https://github.com/ai-agent-lab)
 
@@ -8,7 +7,6 @@
 
 [Projects](#projects) • [Publications](#publications) • [Team](#team) • [Contact](#contact)
 
-</div>
 
 ---
 
@@ -20,13 +18,12 @@ AI Agent Lab is a research organization dedicated to advancing the frontiers of 
 
 ### 🔬 GPT-OSS: Comprehensive Evaluation of OpenAI's Open Source Models
 
-<div align="center">
 
 [![Paper](https://img.shields.io/badge/arXiv-2508.12461-b31b1b.svg)](https://arxiv.org/abs/2508.12461)
 [![Project](https://img.shields.io/badge/Project-brightgreen)](https://ai-agent-lab.github.io/gpt-oss/)
 [![Stars](https://img.shields.io/github/stars/ai-agent-lab/gpt-oss?style=social)](https://github.com/ai-agent-lab/gpt-oss)
 
-</div>
+
 
 A comprehensive evaluation of OpenAI's new open-source language models (GPT-OSS) with two variants: 120B and 20B parameter models. Our research challenges traditional scaling assumptions by demonstrating that the smaller 20B model often outperforms the larger 120B variant across multiple benchmarks.
 
@@ -57,13 +54,11 @@ A comprehensive evaluation of OpenAI's new open-source language models (GPT-OSS)
 
 ### 🌊 Diffusion-based Large Language Models (DLLMs) Survey
 
-<div align="center">
 
 [![Paper](https://img.shields.io/badge/TechRxiv-Survey-blue)](https://www.techrxiv.org/users/952417/articles/1321784-diffusion-based-large-language-models-survey)
 [![Code](https://img.shields.io/badge/Code-Repository-brightgreen)](https://github.com/ai-agent-lab/dllms)
 [![Stars](https://img.shields.io/github/stars/ai-agent-lab/dllms?style=social)](https://github.com/ai-agent-lab/dllms)
 
-</div>
 
 A comprehensive survey exploring the evolution, technical advances, and potential applications of Diffusion-based Large Language Models in natural language processing. This work provides a systematic categorization of diffusion language models and identifies future research directions.
 
@@ -131,10 +126,8 @@ Our projects are open-source and available under their respective licenses. Plea
 
 ---
 
-<div align="center">
 
 **© 2025 AI Agent Lab. Advancing AI Research Through Open Collaboration.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AI%20Agent%20Lab-blue?style=flat&logo=github)](https://github.com/ai-agent-lab)
 
-</div>
