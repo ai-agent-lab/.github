@@ -34,7 +34,7 @@ AI Agent Lab is a research organisation dedicated to advancing the frontiers of 
 
 ## Contact
 
-📧 For collaborations and inquiries, please reach out through our [Email](mailto:ai-agent-lab@vokram.com)
+📧 For collaborations and inquiries, please reach out through our [Email](mailto:ai-agent-lab@vokram.com).
 
 ## License
 
