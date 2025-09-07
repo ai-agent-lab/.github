@@ -5,14 +5,12 @@
 
 **Advancing AI Research Through Open Source Collaboration**
 
-[Projects](#projects) • [Publications](#citation) • [Contact](#contact)
+AI Agent Lab is a research organisation dedicated to advancing the frontiers of artificial intelligence through rigorous evaluation, innovative methodologies, and open-source contributions. Our work spans large language model evaluation, diffusion-based architectures, and next-generation AI systems.
+
+[Projects](#projects) • [Contact](#contact)
 
 
 ---
-
-## Overview
-
-AI Agent Lab is a research organisation dedicated to advancing the frontiers of artificial intelligence through rigorous evaluation, innovative methodologies, and open-source contributions. Our work spans large language model evaluation, diffusion-based architectures, and next-generation AI systems.
 
 ## Projects
 
@@ -33,33 +31,6 @@ AI Agent Lab is a research organisation dedicated to advancing the frontiers of 
 [![Code](https://img.shields.io/badge/Code-Repository-brightgreen)](https://github.com/ai-agent-lab/dllms)
 [![Stars](https://img.shields.io/github/stars/ai-agent-lab/dllms?style=social)](https://github.com/ai-agent-lab/dllms)
 
----
-
-## Citation
-
-If you use our work in your research, please cite:
-
-### GPT-OSS
-
-```bibtex
-@article{gptoss2025,
-  title={GPT-OSS: A Comprehensive Evaluation of OpenAI's Open Source Language Models},
-  author={AI Agent Lab},
-  journal={arXiv preprint arXiv:2508.12461},
-  year={2025}
-}
-```
-
-### DLLMs Survey
-
-```bibtex
-@article{dllms2025,
-  title={Diffusion-based Large Language Models: Survey},
-  author={Tseng, Chiung-Yi and Zhang, Danyang and Bi, Ziqian and Song, Junhao},
-  journal={TechRxiv},
-  year={2025}
-}
-```
 
 ## Contact
 
@@ -73,6 +44,3 @@ Our projects are open-source and available under their respective licenses. Plea
 
 
 **© 2025 AI Agent Lab. Advancing AI Research Through Open Collaboration.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-AI%20Agent%20Lab-blue?style=flat&logo=github)](https://github.com/ai-agent-lab)
-
